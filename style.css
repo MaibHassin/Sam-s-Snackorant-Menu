@@ -95,6 +95,18 @@ header img {
   justify-content: space-between;
 }
 
+.item-description {
+  font-size: 0.75em;
+  font-style: italic;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
+
 @media only screen and (max-width: 600px) {
   .menu-category {
     width: 90%;
