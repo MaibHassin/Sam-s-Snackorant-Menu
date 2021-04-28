@@ -95,3 +95,8 @@ header img {
   justify-content: space-between;
 }
 
+@media only screen and (max-width: 600px) {
+  .menu-category {
+    width: 90%;
+  }
+}
